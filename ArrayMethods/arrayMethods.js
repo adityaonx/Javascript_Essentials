@@ -16,7 +16,7 @@ console.log(ar0) //Output: [ 1, 2, 3, 4, <1 empty item>, 7 ]
 let ar1=[1,2,3,4,5]
 console.log(ar1.length) //Output: 5
 
-//2. toString()
+//2. toString()w
 let ar2=[1,2,3,4,5]
 console.log(ar2.toString()) //Output: 1,2,3,4,5
 console.log(typeof ar2.toString()) //Output: string
